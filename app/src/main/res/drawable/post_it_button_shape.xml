@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  res/drawable/create_post_button_shape.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"
+    android:padding="10dp">
+
+    <stroke android:width="1dp"
+        android:color="#ababab"/>
+
+    <!--    <gradient android:centerColor="#322dab"-->
+    <solid android:color="#322dab"/>
+        <corners android:radius="4dp"/>
+</shape>

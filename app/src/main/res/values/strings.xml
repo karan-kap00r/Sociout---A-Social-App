@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sociout</string>
+    <string name="TextViewString">SIGN IN</string>
+    <string name="TextViewString2">Please Click on the above SIGN IN Button</string>
+    <string name="HeadingString">"Sociout"</string>
+    <string name="CreatePost">+</string>
+</resources>

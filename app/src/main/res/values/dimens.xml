@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="SignInMargin">16dp</dimen>
+    <dimen name="TextSize">24sp</dimen>
+    <dimen name="TextSize2">17sp</dimen>
+    <dimen name="HeadingSize">45sp</dimen>
+</resources>
